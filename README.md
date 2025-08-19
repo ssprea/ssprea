@@ -11,18 +11,14 @@
 
 
 ###
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A71JX5OW)
 <div align="left">
   <a href="https://www.reddit.com/u/ssprea" target="_blank">
     <img src="https://img.shields.io/static/v1?message=reddit&logo=visualstudio&label=&color=FF5700&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
   </a>
+  
 </div>
 
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ssprea/count.svg?"  />
-</div>
 
 ###
